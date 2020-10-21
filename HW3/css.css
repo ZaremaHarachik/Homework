@@ -1,0 +1,39 @@
+.container {
+    width: 800px;
+    background-color: black;
+    padding: 5px;
+}
+.top {
+    width: 800px;
+    height: 50px;
+    background-color: orange;
+}
+.red {
+    width: 150px;
+    height: 300px;
+    background-color: red;
+    float: left;
+}
+.green {
+    width: 250px;
+    height: 300px;
+    background-color: green;
+    float: left;
+}
+.blue {
+    width: 250px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+}
+.black {
+    width: 150px;
+    height: 300px;
+    float: left;
+}
+.bottom {
+    width: 800px;
+    height: 50px;
+    background-color: orange;
+    clear: both;
+}
